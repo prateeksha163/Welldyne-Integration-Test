@@ -1,0 +1,10 @@
+# IntelliJ Files & Folders
+.idea
+**/.DS_Store
+#Reports & Compiled Classes
+**/target
+**/build
+**/reports.json
+**/*.iml
+*/reportportal.lock
+*/reportportal.sync
